@@ -22,7 +22,7 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'capybara'
 gem 'database_cleaner', '~> 1.7'
-gem 'rails-helper'
+# gem 'rails-helper'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use ActiveModel has_secure_password
